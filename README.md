@@ -2,7 +2,7 @@
 ## Project description
 * A company is attempting to increase the security of their system. My responsibility is to ensure the security of the system, look into any potential security concerns, and update employee computers as necessary. 
 
-* The following steps provide examples of how  SQL is uded with filters to perform security-related tasks.
+* The following steps provide examples of how  SQL is used with filters to perform security-related tasks.
 
 ## Retrieve after hours failed login attempts
 
