@@ -8,7 +8,7 @@
 There was a potential security incident that occurred after business hours (after 18:00). All after hours login attempts that failed need to be investigated.
 The following code demonstrates how I created a SQL query to filter for failed login attempts that occurred after business hours.
 
-<img width="100" alt="sq1" src="https://github.com/Melaku23/Apply-filters-to-SQL-queries/assets/24359349/ef455dc4-fe48-40f6-a3d9-2f5865546c06">
+<img width="1000" alt="sq1" src="https://github.com/Melaku23/Apply-filters-to-SQL-queries/assets/24359349/ef455dc4-fe48-40f6-a3d9-2f5865546c06">
 ##Retrieve login attempts on specific dates.
 
 * A suspicious event occurred on 2022-05-09. Any login activity that happened on 2022-05-09 or on the day before needs to be investigated.
